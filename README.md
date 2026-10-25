@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-# ZHIRAI Short-Drama Agent Crew
+# AI Short Drama Agent
 
 A DeepSeek Harness plugin that packages six runtime agents, their orchestration and production-stage conventions from the ZHIRAI short-drama system.
 
