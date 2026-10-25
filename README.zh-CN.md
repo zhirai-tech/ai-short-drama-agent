@@ -2,7 +2,7 @@
 
 ---
 
-# ZHIRAI 短剧 Agent 插件
+# AI 短剧 Agent
 
 ---
 
