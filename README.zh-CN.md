@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [个人网站](https://zhinian-ai.com)
 
 ---
 
@@ -366,3 +366,9 @@ node scripts/verify-standalone.mjs
 - 不实现支付 / 会员 / License / 订阅 / 账号系统。
 - 不新增第二套 Model Router：模型一律由 Harness 决定。
 - 不修改 Harness 核心包。
+
+---
+
+## 个人网站
+
+**ZHIRAI / 智睿科技** — [zhinian-ai.com](https://zhinian-ai.com)
