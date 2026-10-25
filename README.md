@@ -1,3 +1,11 @@
+> **简体中文 | English**
+>
+> ZHIRAI 短剧 Agent 插件：把真实短剧系统中的 6 个运行时 Agent、调度关系和生产阶段口径打包成 DeepSeek Harness 独立插件。
+>
+> **ZHIRAI Short-Drama Agent Crew**: packages six runtime agents, their orchestration and production-stage conventions from the ZHIRAI short-drama system into an installable DeepSeek Harness plugin.
+
+---
+
 # ZHIRAI Short-Drama Agent Crew — DeepSeek Harness 插件
 
 把 **ZHIRAI AI 短剧系统**里真实存在的整套 Agent 架构（6 个运行时 Agent + 调度关系 + 生产阶段口径）
